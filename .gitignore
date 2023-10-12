@@ -363,3 +363,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+
+# keep the module files
+!modules/godotggpo/**
